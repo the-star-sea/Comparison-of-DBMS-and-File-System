@@ -2,9 +2,6 @@
 # DBMS与File System的对比
 ## Introduction
 通过这次project，我们对比文件系统与数据库系统在对数据操作方面的差异，证明数据库系统在查询、存储大数据、管理等方面的优势。
-## Git repository
-本次project的所有文件、代码详见：
-[https://github.com/the-star-sea/database_po](https://github.com/the-star-sea/database_po)
 ## Group Info and Contribution
 #### Group Members
 
