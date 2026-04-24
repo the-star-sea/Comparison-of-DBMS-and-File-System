@@ -320,3 +320,31 @@ dbms中，我们对处理过后的student表进行了事务修改，前三条sql
 
 
 
+
+## Project Structure
+```
+.
+|-- README.md
+|-- code
+|   |-- createtable.sql
+|   |-- estimate
+|   `-- processing
+`-- data_package
+    |-- academy.csv
+    |-- class.csv
+    |-- class_detail.csv
+    |-- course.csv
+    |-- department.csv
+    |-- prerequisite.csv
+    |-- student.csv
+    |-- student_class.csv
+    |-- teacher1.csv
+    `-- teacher_class.csv
+
+5 directories, 12 files
+```
+
+
+## Quick Start
+Review the source files for build and execution instructions.
+

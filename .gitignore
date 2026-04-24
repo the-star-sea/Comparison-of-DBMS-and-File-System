@@ -1,0 +1,5 @@
+.idea/
+*.iml
+cmake-build-*/
+.DS_Store
+code/estimate/cpp/cmake-build-*/
