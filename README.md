@@ -10,11 +10,11 @@
 - **徐思婷 11911635**
 
 #### Contribution
-- **张通 (33.333%):** 
+- **张通 :** 
 建表；写Java；导数据；多平台测试；搞高并发；写report
-- **唐云龙 (33.333%):** 
+- **唐云龙 :** 
 教pandas；写Python；洗数据；导数据；写report
-- **徐思婷 (33.333%):** 
+- **徐思婷 :** 
  洗数据；写C++/Python；测速；写report
 ## Database design
 #### Diagram of table structure
